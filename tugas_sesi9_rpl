@@ -1,0 +1,144 @@
+TUGAS KULIAH ONLINE SESI 09
+
+Jawablah dengan Text online yang telah disediakan . :
+
+1, Bagaimana desain interface yang baik
+
+Kunci dari sebuah desain antar muka (user interface) website atau aplikasi yang bagus atau menarik adalah kemudahan pengguna dalam menggunakannya. Prinsip dalam membuat desain antar muka (user interface) sangat penting karena jika terlalu memusingkan, pengguna harus belajar lagi cara menggunakannya dan akan membuat mereka frustasi.
+
+        Ketahui karakteristik penggunamu
+        Ketahui apa keahlian dan pengalaman penggunamu, ketahui apa yang mereka inginkan. Jangan mengikuti desain antar muka yang trendi atau menambahkan fitur baru hanya karena takut dikalahkan dalam kompetisi. Utamakan kebutuhan penggunamu agar kamu bisa membuat desain antar muka (user interface) yang “mereka banget”.
+
+        Pecahkan masalah
+        Tidak perlu berusaha menciptakan hal-hal yang baru. Misalnya, jika seorang pengguna ingin memilih item dari sebuah list, sudah ada cara untuk melakukannya, checkbox misalnya. Jangan menciptakan sesuatu agar dibilang berbeda, gunakan metode yang sudah ada agar pengguna langsung akrab dengan desain antar muka (user interface) buatanmu.
+
+        Tetap konsisten
+        Pengguna butuh konsistensi, artinya ketika mereka tahu cara melakukan sesuatu, mereka dapat melakukannya kembali. Desain antar muka (user interface) yang konsisten membantu pengguna mengerti bagaimana sesuatu akan bekerja yang pada akhirnya meningkatkan efisiensi mereka.
+
+        Penempatan/layout
+        Tujuan pertama dalam membuat desain antar muka (user interface) adalah pengguna nanti tidak disulitkan dalam menjelajah isi website/aplikasi, jangan habiskan waktu pengguna sia-sia hanya karena berpikir cara menjelajah website/aplikasi kamu. Oleh karena itu, tempatkan elemen website/aplikasi di tempat yang mudah dicari oleh pengguna, contohnya search bar.
+
+        Toleransi kesalahan pengguna
+        Sebagus-bagusnya atau sejelas-jelasnya desain kamu, pengguna bisa melakukan kesalahan. Desain antar muka (user interface) buatanmu harus bisa menolerir kesalahan mereka, misalnya jika pengguna salah memasukkan tanggal lahir mereka, pengguna dapat menghapus dan memasukkan kembali tanggal lahir mereka. Dan, jika terjadi eror karena pengguna, beri pesan yang dapat dimengerti pengguna bahwa pengguna melakukan kesalahan dan pastikan mereka tahu cara mencegah eror tersebut sebelum terjadi kembali.
+
+        Buatlah sederhana
+        Desain antar muka (user interface) yang bagus adalah jika di dalamnya tidak terdapat elemen yang tidak diperlukan. Elemen yang diperlukan malah terlihat singkat dan nyambung. Kapan pun kalau kamu ingin menambahkan fitur atau elemen baru ke dalam interface kamu, tanyakan, “Apakah pengguna benar-benar butuh ini?” Jangan biarkan egomu merusak interfacemu.
+
+2. Bagaimana membangun system yang baik
+
+1. Pengumpulan Data
+
+Untuk merancang aplikasi pendaftaran siswa secara online, tentunya kita harus mengetahui terlebih dahulu persyaratan - persayaratan dan aturan yang berlaku dalam proses pendaftaran siswa online. Apa saja data yang harus kita dapatkan , mungkin data - data yang harus kita ketahui adalah sebagai berikut :
+
+    Bagaimana form pendaftaran siswa yang sebelumnya di lakukan secara offline -> Hal ini berkaitan dengan proses pembuatan form pada proses registrasi siswa pada saat melakukan pendaftarn melalui aplikasi PSB Online
+    Persayaratan - persyaratan apa saja yang harus dipenuhi oleh siswa untuk mengikuti PSB - Online
+    Lampiran - lampiran apa saja yang harus dikirimkan
+    Bagaimana format penampilan data yang harus dikeluarkan -> Hal ini berkaitan dengan proses pengumuman untuk menentukan siswa yang mana yang berhak masuk ke sekolah atau yang tidak layak dikarenakan nilai mereka tidak mencukupi
+    Dan lain - lain yang nantinya akan memudahkan kita untuk melakukan penyusunan aplikasi PSB - Online
+
+2. Membuat Diagram Alur dan Algoritma
+
+Hal ini diperlukan untuk memudahkan kita dalam menyusun aplikasi. Jika diagram alur sistem sudah kita buat, kita bisa dengan sangat mudah menentukan untuk mulai menyusun script program sehingga tidak lagi kebingungan dengan ide - ide yang bermunculan
+
+3. Menyusun Aplikasi secara sederhana
+
+Mulailah menyusun aplikasi secara sederhana terlebih dahulu, silahkan di abaikan terlebih dahulu aturan - aturan kemanan dan pesan - pesan kepada pengguna. Hal yang paling penting dalam hal ini adalah : Aplikasi sudah bisa berjalan sesuai fungsinya meskipun kalo kita lihat dari beberapa sisi masih ada kelemahan, misalnya :
+
+    Dari sisi kemanan masih kurang
+    Pembatasan - pembatasan dalam form input masih kurang
+    Tampilannya masih kurang bagus
+    Dan lain - lain
+
+Dengan metode ini, biasanya kita tidak akan merasa jenuh dalam menyusun aplikasi dikarenakan aplikasi yang kita buat sudah berfungsi secara utuh. Lain halnya jika kita langsung mengerjakan setiap bagian secara sempurna, maka kita akan merasa jenuh dikarenakan kita merasa pekerjaan yang kita lakukan sepertinya tidak selesai - selesai.
+
+4. Menyempurnakan kekurangan - kekurangan
+
+Setelah aplikasi berfungsi secara normal, pada tahap ini kita bisa mulai melakukan pemyempurnaan dan perbaikan - perbaikan terhadap script program yang sudah kita buat. Perbaikan - perbaikan tersebut diantaranya :
+
+    Mulai memperhatikan sisi kemanan data
+    Mulai memperhatikan tingkat berat atau ringannnya aplikasi ketika dijalankan
+    Mulai memperhatikan batasan - batasan dan aturan - aturan yang harus diterapkan pada form input
+    Mulai memperbarui tampilan supaya kelihatan lebih menarik
+    dan lain - lain
+
+3.Analisis fisbon digunakan untuk menganalis kasus yang bagaimana
+
+Fishbone Analysis atau yang sering disebut juga Cause Effect Diagram merupakan sebuah metode yang digunakan untuk membantu memecahkan masalah yang ada dengan melakukan analisis sebab dan akibat dari suatu keadaan dalam sebuah diagram yang terlihat seperti tulang ikan.
+Fishbone Analysis dapat berfungsi sebagai pengidentifikasikan penyebab-penyebab yang mungkin timbul dari suatu spesifik masalah dan kemudian memisahkan akar penyebabnya, memungkinkan juga untuk mengidentifikasi solusi yang dapat membantu menyelesaikan masalah tersebut (bisa lebih dari satu masalah)
+
+Berikut langkah-langkah untuk melakukan Fishbone Analysis:
+
+    Mulai dengan pernyataan masalah-masalah utama yang penting dan mendesak terlebih dahulu.
+    Menuliskan masalah tersebut pada bagian kepala ikan yang merupakan penyebab utama masalah tersebut bisa terjadi.
+    Tulis pada sisi sebelah kanan dari kertas (kepala ikan), kemudian gambarkan tulang belakang dari kiri ke kanan dan tempatkan pernyataan masalah itu dalam kotak.
+    Tuliskan faktor-faktor penyebab utama (sebab-sebab) yang mempengaruhi masalah kualitas sebagai tulang besar, juga ditempatkan dalam kotak. Faktor-faktor penyebab atau kategori-kategori utama dapat dikembangkan melalui Stratifikasi ke dalam pengelompokan dari faktor-faktor: manusia, mesin, peralatan, material, metode kerja,
+
+Kelebihan dan Kekurangan Diagram FishBone:
+
+Kelebihan Fishbone diagram adalah dapat menjabarkan setiap masalah yang terjadi dan setiap orang yang terlibat di dalamnya dapat menyumbangkan saran yang mungkin menjadi penyebab masalah tersebut. Sedangkan Kekurangan Fishbone diagram adalah opinion based on tool dan di design membatasi kemampuan tim / pengguna secara visual dalam  menjabarkan masalah yang mengunakan metode “level why” yang dalam, kecuali bila kertas yang digunakan benar – benar besar untuk menyesuaikan dengan kebutuhan tersebut. Serta biasanya voting digunakan untuk memilih penyebab yang paling mungkin yang terdaftar pada diagram tersebut.
+
+4. Analisis Pices cocok doigunakan untuk menganalis binis yang bagaimana ?
+
+Analisis yang paling banyak di gunakan dan paling mudah di terapkan adalah analisis pieces.
+
+Pengertian analisis pieces adalah suatu system yang di gunakan untuk analisis system kerja pada suatu perusahaan atau organisasi. Ada 6 kriteria analisis pieces yaitu kinerja (Performance), informasi (Information), ekonomi (Economic), kontrol (Control), efisiensi (Efficiency), dan pelayanan (Services).
+
+Analisis analisis SWOT analisis pieces juga sangat banyak di terapkan untuk penelitian pada suatu perusahaan atau organisasi. Salain mudah dan dapat di pahami analisis pieces juga bersifat ringan tidak membutuhkan data yang banyak.
+Pengertian Analisis Pieces menurut para ahli James Wetherbe (2012),
+
+PIECES adalah untuk mengoreksi atau memperbaiki sistem informasi bagi pengambil keputusan dalam suatu organisasi. Berikut ini daftar identifikasi masalah yang sesuai dengan yang dihadapi oleh organisasi.
+Pengertian Analisis Pieces menurut para ahli Wukil Ragil (2010:17),
+
+Metode PIECES adalah metode analisis sebagai dasar untuk memperoleh pokok-pokok permasalahan yang lebih spesifik. Dalam menganalisis sebuah sistem, biasanya akan dilakukan terhadap beberapa aspek antara lain adalah kinerja, informasi, ekonomi, keamanan aplikasi, efisiensi dan pelayanan pelanggan. Analisis ini disebut dengan PIECES Analysis (Performance, Information, Economy, Control, Eficiency and Service).
+
+Berikut ini kriteria yang wajib ada pada analisis pieces menurut James Wetherbe (2012),
+1.      Performance
+
+Produksi – jumlah kerja selama periode waktu tertentu. Pada bagian ini dideskripsikan situasi saat ini tentang jumlah kerja yang dibutuhkan untuk melakukan serangkaian kerja tertentu dalam satuan orang jam, orang hari, atau orang bulan. Misalnya : untuk memperioses berkas yang masuk kepada oraganisasi dibutuhkan berapa orang jam? Kemudian hal ini dianalisis apakah hasil kerja yang demikian ini sudah bagus atau perlu ada peningkatan kerja.
+
+Waktu respons – penundaan rata-rata antara transaksi atau permintaan dengan respons ketransaksi atau permintaan tersebut. Pada bagian ini dideskripsikan situai saat ini tentang waktu respons yang terjadi ketika ada suatu transaksi yang masuk hingga transaksi tersebut direspons untuk diproses. Penundaan ini bisa jadi karena antrian dalam pemrosesan transaksi-transaksi sebelumnya.
+2.      Informations
+
+Kurangnya informasi, kurangnya informasi yang diperlukan, kurangnya informasi yang relevan – 3 hal yang telah disebutkan itu bersumber pada kurangnya informasi bagaimanapun bentuknya. Pada bagian ini dideskripsikan pada situasi saat tentang kurangnya informasi yang dibutuhkan untuk pengambilan keputusan, baik itu dalam jumlah, informasi maupun dalam hal macam informasinya.
+
+Terlalu banyak informasi ( kelebihan informasi ) – yang dimaksud terlalu banyak informasi disini adalah banyak nya informasi yang berserakan belum terkumpul, belum terformat, dan masih tercampurnya antara informasi yang relevan dan yang tidak relevan dengan masalah yang harus diambil keputusannya, sehingga memerlukan waktu yang lebih lama untuk memilah dan memilih informasi yang relevan.
+
+Informasi tidak dalam format yang berguna – adalah bahwa informasi sudah tersedia, hanya saja bentuk dan format nya tidak sesuai dengan yang dibutuhkan sehingga mempersulit pembaca informasi tersebut dan memerlukan waktu yang lebih lama untuk memahami dan memanfaatkan informasi tersebut.
+3.      Economics
+
+    Biaya tidak diketahui
+    Biaya tidak dapat dilacak sumber
+    Biaya terlalu tinggi
+
+Secara umum keuntungan- keuntungan yang didapat ketika menerapkan sistem informasi, selain yang tersebut dibawah ini masih ada lagi keuntungan – keuntungan yang lain yang secara lebih lengkap diidentifikasikan. Sehingga pada bagian ini dideskripsikan manfaat yang akan didapatkan ketika menerapkan teknologi informasi atau sistem informasi dalam menjalakan proses bisnisnya.
+4.      Control
+
+Pada bagian ini dideskripsikan situasi saat ini tentang kendali terhadap aliran data dan informasi ketika keaamanan atau kendali terlihat lemah sehingga data dan informasi rentan terhadap pemanfaatan kepada pihak-pihak yang tidak berwewenang. Juga ketika keamanan atau kendali terhadap aliran data dan informasi terlalu ketat sehingga sistem jadi terbebani oleh prosedur keamanan atau kendali tersebut dan juga mengganggu keamanan dan kenyamanan para pengguna dan pengambil manfaat data dan informasi yang dihasilkan oleh sistem tersebut.
+5.      Effisiency
+
+Dimana data yang berlebihan diinputkan dan diproses juga informasi yang dihasilkan secara berlebihan akan membuat sistem tidak akan efisien dalam penggunaan sumber daya. Sumber daya dapat berupa sumber daya prosesor, memory, ruang penyimpanan, listrik, personil, dll.
+6.      Service
+
+Pada bagian ini dideskripsikan situasi saat ini tentang layanan yang disediakan oleh sistem yang berjalan saat ini. Sederatan kelemahan layanan data sistem telah teridentifikasi dibawah ini, berikut ini kelemahan layanan sistem yang teridentifikasi :
+
+    Sistem menghasilkan produk yang tidak akurat
+    Sistem menghasilkan produk yang tidak konsisten
+    Sistem menghasilkan produk yang tidak dapat dipercaya
+    Sistem tidak mudah dipelajari
+
+5, Sedangkan Methode XP cocok digunakan merancang yang bagaimanan . ??
+
+ Metode Pengembangan Extreme Programming
+Extreme Programming (XP) merupakan suatu pendekatan yang paling banyak digunakan untuk pengembangan perangkat lunak cepat. Alasan menggunakan metode  Extreme Programming (XP) karena sifat dari aplikasi yang di kembangkan dengan cepat melalui tahapan-tahapan yang ada meliputi : Planning/Perencanaan, Design/Perancangan, Coding/Pengkodean dan Testing/Pengujian. (Pressman, 2012:88). Adapun  tahapan pada Extreme Programming dapat di jelaskan sebagai berikut:
+
+1)         Planning/Perencanaan
+Pada tahap perencanaan ini dimulai dari pengumpulan kebutuhan yang membantu tim teknikal untuk memahami konteks bisnis dari sebuah aplikasi. Selain itu pada tahap ini juga mendefinisikan output yang akan dihasilkan, fitur yang dimiliki oleh aplikasi dan fungsi dari aplikasi yang dikembangkan.
+2)         Design/Perancangan
+Metode ini menekankan desain aplikasi yang sederhana, untuk mendesain aplikasi dapat menggunakan Class-Responsibility-Collaborator (CRC) cards yang mengidentifikasi dan mengatur class pada object-oriented.
+3)         Coding/Pengkodean
+Konsep utama dari tahapan pengkodean pada extreme programming adalah pair programming, melibatkan lebih dari satu orang untuk menyusun kode.
+4)         Coding/Pengujian
+Pada tahapan ini lebih fokus pada pengujian fitur dan fungsionalitas dari aplikasi.
+
+Jawaban diketik . secara langsung 
+
