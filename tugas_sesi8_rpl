@@ -1,0 +1,60 @@
+TUGAS . KULIAH . ONLINE SESI . 08
+
+JAWABLAH PERTANYAAN BERIKU
+
+1.Bagaimana mendesain sistem yang  baik
+
+Berikut beberapa Prinsip sebuah sistem yang baik:
+
+1. Ketersediaan, meliputi:
+Dokumentasi data lengkap, dimana setiap aktifitas bisnis dapat terekam dalam sebuah sistem informasi. Meminimalkan kegagalan sistem, mencegah agar sistem tersebut dapat berjalan sesuai dengan harapan.
+2. Keamanan
+Pemberian password, salah satu bentuk keamanan sebuah sistem, diperlukan security password untuk mencegah terjadinya penyalahgunaan data.
+Pposisi komputer yang aman, hal ini lebih mengarah tentang tata letak komputer dan jaringan.
+Pasang alarm keamanan, untuk mencegah pencurian perangkat keras. Seperti:monitor, cpou, dll.
+Data control, pemantauan data secara rutin dapat mengurangi resiko masalah keamanan data yang disimpan pada sebuah sistem.
+3. Dapat dipelihara
+Pengukuran kinerja sistem dan peninjauan berkala sistem, dua hal ini saling berhubungan. Karena peninjauan sistem secara rutin dapat digunakan untuk memantau data sekaligus mengukur kinerja sistem yang sedang berjalan. Sehingga manajemen sistem informasi data mengetahui apa yang akan dilakukan terhadap sistem tersebut kedepannya.
+4. Integritas
+Verifikasi data, proses pengecekan data saat data dimasukkan hingga keluar menjadi sebuah informasi. Verifikasi data membutuhkan waktu dan tenaga, yang dilakukan oleh manajemen sistem.
+Pengecekan data rangkap, untuk mengurangi redundansi data (data rangkap) perlu dilakukan secara bertahap. Bisa juga dikategorikan sebagai data control. Hanya saja hal ini bertujuan untuk memanajemen sistem database
+
+2.Jelaskan . tahapai SDLC
+
+Berikut ini adalah Fase-fase Sistem Development Life Cycle (SDLC) meliputi :
+
+A. Perencanaan Sistem (Systems Planning)
+Lebih menekankan pada aspek studi kelayakan pengembangan sistemÂ (feasibility study). Aktivitas-aktivitas yang ada meliputi :
+• Pembentukan dan konsolidasi tim pengembang.
+• Mendefinisikan tujuan dan ruang lingkup pengembangan.
+• Mengidentifikasi apakah masalah-masalah yang ada bisa diselesaikan melalui pengembangan sistem.
+• Menentukan dan evaluasi strategi yang akan digunakan dalam pengembangan sistem.
+• Penentuan prioritas teknologi dan pemilihan aplikasi.
+
+B. Analisis Sistem (Systems Analysis)
+Analisa sistem adalah tahap di mana dilakukan beberapa aktivitas berikut:
+• Melakukan studi literatur untuk menemukan suatu kasus yang bisa ditangani oleh sistem.
+• Brainstorming dalam tim pengembang mengenai kasus mana yang paling tepat dimodelkan dengan sistem.
+• Mengklasifikasikan masalah, peluang, dan solusi yang mungkin diterapkan untuk kasus tersebut.
+• Analisa kebutuhan pada sistem dan membuat batasanÂ sistem.
+• Mendefinisikan kebutuhan sistem.
+
+C. Perancangan Sistem (Systems Design)
+Pada tahap ini, features dan operasi-operasi pada sistem dideskripsikan secara detail. Aktivitas-aktivitas yang dilakukan adalah:
+• Menganalisa interaksi obyek dan fungsi pada sistem.
+• Menganalisa data dan membuat skema database.
+• Merancang user interface.
+
+D. Implementasi Sistem (Systems Implementation)
+Tahap berikutnya adalah implementasi yaitu mengimplementasikan rancangan dari tahap-tahap sebelumnya dan melakukan uji coba.
+Dalam implementasi, dilakukan aktivitas-aktivitas sebagai berikut:
+• Pembuatan database sesuai skema rancangan.
+• Pembuatan aplikasi berdasarkan desain sistem.
+• Pengujian dan perbaikan aplikasi (debugging).
+
+E. Pemeliharaan Sistem (Systems Maintenance)
+Dilakukan oleh admin yang ditunjuk untuk menjaga sistem tetap mampu beroperasi secara benar melalui kemampuan sistem dalam mengadaptasikan diri sesuai dengan kebutuhan.
+
+3.Apa gunanya Analisis terhadap system yang lam
+
+Kegunaannya adalah Analisis sistem lama ialah penguraian suatu sistem informasi yang sudah utuh kedalam bagian-bagian komponennya dengan tujuan dapat mengidentifikasi. Dan mengevaluasi berbagai macam permasalahan maupun hambatan yang terjadi pada sistem lama sehingga nantinya dapat dilakukan perbaikan atau pengembangan.
