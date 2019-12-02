@@ -1,0 +1,15 @@
+#!/bin/bash
+lagi='y'
+	echo -n "Masukkan Alas: ";
+	read alas
+	echo -n "Masukkan Tinggi: ";
+	read tinggi
+	let luas=$alas*$tinggi/2
+	echo ""
+	echo "=============================="
+	echo "			LUAS SEGITIGA		"
+	echo "=============================="
+	echo "Alas: $alas"
+	echo "Tinggi: $tinggi"
+	echo "Luas: $luas"
+	echo "=============================="
