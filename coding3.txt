@@ -1,0 +1,12 @@
+rundll32.exe keymgr.dll,KRShowKeyMgr
+
+#!/bin/bash
+lagi='y'
+	echo -n "Masukkan Batas Perulangan: ";
+	read a
+	ulang=1
+	while [ $ulang -le $a ]
+	do
+	echo "Lab CRA";
+	let "ulang=$ulang+1"
+	done
