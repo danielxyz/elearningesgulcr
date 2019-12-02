@@ -1,0 +1,19 @@
+mount -rw -U remount /
+passwd 
+
+#!/bin/bash
+lagi='y'
+	echo -n "Masukkan Nama: "
+	read nama
+	echo -n "Masukkan Kelas: "
+	read kelas
+	echo -n "Masukkan NIM: "
+	read nim
+	echo ""
+	echo "======================================"
+	echo "		DATA YANG DIINPUT				"	
+	echo "======================================"
+	echo "Nama: $nama"
+	echo "Kelas: $kelas"
+	echo "NIM: $nim"
+	echo "======================================"
