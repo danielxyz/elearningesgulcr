@@ -1,0 +1,46 @@
+CREATE OR REPLACE TRIGGER "ST_UPDATE_ANGKA_KE_HURUF" 
+BEFORE DELETE OR INSERT OR UPDATE ON ST_UJIAN_DES
+FOR EACH ROW
+ 
+WHEN (NEW.angka > 0); 
+DECLARE
+ konversi char(1);
+ nilai float(2); 
+
+BEGIN
+ nilai = :NEW.angka;
+
+IF length(:new.nilai) > 79 THEN
+    konversi := 'A';
+	   DBMS_OUTPUT.put_line (:new.konversi);
+ ELSEIF 69 < length(:new.nilai) and length(:new.nilai) < 80 THEN
+         konversi := 'B';
+			DBMS_OUTPUT.put_line (:new.konversi);
+      ELSEIF 59 < length(:new.nilai) and length(:new.nilai) < 70 THEN
+              konversi := 'C';
+				DBMS_OUTPUT.put_line (:new.konversi);
+		   ELSEIF 49 < length(:new.nilai) and length(:new.nilai) < 60 THEN
+                   konversi := 'D';
+						DBMS_OUTPUT.put_line (:new.konversi);
+                 ELSE
+                    konversi := 'E';
+						DBMS_OUTPUT.put_line (:new.konversi);
+ENDIF;
+ 
+UPDATE ST_UJIAN_DES
+SET huruf = konversi;
+WHERE NIM = :NEW.nim and KD_MK = :NEW.kd_mk;
+END;
+
+desc st_ujian_des
+insert into st_ujian_des(nim,kd_mk,angka,huruf)
+values('','','100','')
+
+UPDATE st_ujian_des
+SET angka = '100'
+WHERE nim = '20180801381'
+
+
+
+
+
